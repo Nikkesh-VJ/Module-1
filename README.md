@@ -17,9 +17,6 @@ To create a python program to read a tuple and convert it into a list.
 
 ## PROGRAM
 
-# Reg no-212222050039
-# Name-Naveen P
-
 ```python
 tuple = eval(input("Enter a tuple: ")) 
 T = list(tuple)
@@ -50,9 +47,6 @@ Write a python program to read two numbers and convert and print them into a com
 
 ## PROGRAM
 ```python
-# Reg.No-212222050039
-# Name-Naveen P
-
 a=int(input())
 b=int(input())
 c=complex(a,b)
@@ -86,8 +80,6 @@ To Write a python program using the assignment operator /=,%= on the given value
 
 ## PROGRAM
 ```python
-# Reg.No-212222050039
-# Name-Naveen P
 
 a=int(input())
 b=int(input())
@@ -133,8 +125,6 @@ To Write a Python program to compute whether a given year is leap year or not
 
 ## PROGRAM
 ```python
-# Reg.No- 212222050039
-# Name-Naveen P
 
 
 year=int(input())
@@ -171,8 +161,6 @@ To write a Python program to find the maximum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-21222205009
-# Name-Naveen P
 # Write your code here
 
 num1 = int(input())
