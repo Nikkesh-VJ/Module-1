@@ -23,9 +23,9 @@ T = list(tuple)
 print(f"List={T}")
 
 
-## OUTPUT
 
-![Screenshot_22-5-2025_105055_training saveetha in](https://github.com/user-attachments/assets/23afffaf-26cd-41d0-bf84-a00947eefbc0)
+
+## OUTPUT ![Screenshot_22-5-2025_105055_training saveetha in](https://github.com/user-attachments/assets/23afffaf-26cd-41d0-bf84-a00947eefbc0)
 
 
 ## RESULT 
